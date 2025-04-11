@@ -518,6 +518,11 @@ $lightGreen: #937979;
           width: 100%;
         }
       }
+      .menu .item .cat {
+        flex-wrap: wrap;
+        justify-content: flex-start;
+        gap: 8px;
+      }
     }
   }
 }
